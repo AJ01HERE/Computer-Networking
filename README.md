@@ -9,4 +9,4 @@ This repo contains all weekly tasks, network designs, CLI commands, documentatio
 
 - **Week 1–4**: Networking Concepts, Configurations, Security & Troubleshooting
 - **Week 5–6**: Project Development, Performance Audit, Final Review
-- **Week 7–8**: Final ML Project + Interview Phase
+- **Week 7–8**: Final Project + Interview Phase
